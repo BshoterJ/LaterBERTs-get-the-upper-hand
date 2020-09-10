@@ -40,7 +40,7 @@
 - Towards a Human-like Open-Domain Chatbot (CoRR 2020) [[paper]](https://arxiv.org/abs/2001.09977) - ***Meena***
 - UniLMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training (CoRR 2020) [[paper]](https://arxiv.org/abs/2002.12804)[[code]](https://github.com/microsoft/unilm) - ***UNILMv2***
 - Optimus: Organizing Sentences via Pre-trained Modeling of a Latent Space (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.04092)[[code]](https://github.com/ChunyuanLI/Optimus) - ***Optimus***
-- **SegaBERT: Pre-training of Segment-aware BERT for Language Understanding**. *He Bai, Peng Shi, Jimmy Lin, Luchen Tan, Kun Xiong, Wen Gao, Ming Li*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.14996)
+- SegaBERT: Pre-training of Segment-aware BERT for Language Understanding. *He Bai, Peng Shi, Jimmy Lin, Luchen Tan, Kun Xiong, Wen Gao, Ming Li*. (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.14996)
 - MPNet: Masked and Permuted Pre-training for Language Understanding (CoRR 2020) [[paper]](https://arxiv.org/abs/2004.09297)[[code]](https://github.com/microsoft/MPNet) - ***MPNet***
 - Language Models are Few-Shot Learners (CoRR 2020) [[paper]](https://arxiv.org/abs/2005.14165)[[code]](https://github.com/openai/gpt-3) - ***GPT-3***
 - SPECTER: Document-level Representation Learning using Citation-informed Transformers (ACL 2020) [[paper]](https://arxiv.org/abs/2004.07180) - ***SPECTER***
